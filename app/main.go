@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Jeltok88/app/calendar"
-	"github.com/Jeltok88/app/events"
+	"github.com/Jeltok88/calendar/app/calendar"
+	"github.com/Jeltok88/calendar/app/events"
 )
 
 func main() {
